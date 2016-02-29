@@ -1,1 +1,0 @@
-# ListaDeExercicios3Algoritimoa
